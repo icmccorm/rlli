@@ -1,0 +1,10 @@
+[submodule "rlli-llvm"]
+	path = rlli-llvm
+	url = https://github.com/icmccorm/rlli-llvm.git
+[submodule "rlli-llvm-sys"]
+	path = rlli-llvm-sys
+	url = https://github.com/icmccorm/rlli-llvm-sys.git
+[submodule "rlli-llvm-ir"]
+	path = rlli-llvm-ir
+	url = https://github.com/icmccorm/rlli-llvm-ir.git
+
